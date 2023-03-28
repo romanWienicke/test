@@ -1,4 +1,4 @@
 # test
-just for tessting
+just for testing
 
 not for use, just simple tests
